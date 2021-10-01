@@ -1,0 +1,12 @@
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\bin\Debug\net5.0\Opgave_1_Unit_Test.deps.json
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\bin\Debug\net5.0\Opgave_1_Unit_Test.dll
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\bin\Debug\net5.0\ref\Opgave_1_Unit_Test.dll
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\bin\Debug\net5.0\Opgave_1_Unit_Test.pdb
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.csproj.AssemblyReference.cache
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.AssemblyInfoInputs.cache
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.AssemblyInfo.cs
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.csproj.CoreCompileInputs.cache
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.dll
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\ref\Opgave_1_Unit_Test.dll
+C:\Users\ebrub\source\repos\Opgave_1_Unit_Test\obj\Debug\net5.0\Opgave_1_Unit_Test.pdb
